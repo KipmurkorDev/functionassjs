@@ -21,5 +21,5 @@ function recursive(num){
    }
    }
    // calling  the function
-   console.log(recursive(1));
+recursive(1)
    
